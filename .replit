@@ -1,0 +1,2 @@
+language = "go"
+run = "CGO_ENABLED=0 go build ./cmd/traitor"
